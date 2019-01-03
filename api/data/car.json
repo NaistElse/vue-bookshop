@@ -1,0 +1,48 @@
+[
+  {
+    "user_id": 18,
+    "car": [
+      {
+        "book_id": 4939,
+        "count": 4,
+        "price": 99,
+        "select": true
+      },
+      {
+        "book_id": 4942,
+        "count": 7,
+        "price": 45,
+        "select": false
+      },
+      {
+        "book_id": 4943,
+        "count": 2,
+        "price": 49,
+        "select": false
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "car": [
+      {
+        "book_id": 4939,
+        "count": 8,
+        "price": 99,
+        "select": true
+      },
+      {
+        "book_id": 4942,
+        "count": 7,
+        "price": 45,
+        "select": true
+      },
+      {
+        "book_id": 4943,
+        "count": 2,
+        "price": 49,
+        "select": false
+      }
+    ]
+  }
+]
